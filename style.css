@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #dce8f0;
+    color: #172536;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #18324d;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+nav a {
+    color: white;
+    font-size: 18px;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+main {
+    margin: 30px;
+    padding: 20px;
+}
+
+.inicio {
+    background-color: #f4f8fb;
+    border: 2px solid #9bb8cc;
+    padding: 30px;
+}
+
+.inicio h2 {
+    color: #18324d;
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.inicio p {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.inicio img {
+    border: 5px solid #18324d;
+    height: 330px;
+    margin-top: 25px;
+    width: 240px;
+}
+
+.botao {
+    background-color: #28618b;
+    border-radius: 8px;
+    color: white;
+    display: inline-block;
+    padding: 12px 18px;
+    text-decoration: none;
+}
+
+.conteudo {
+    background-color: #f4f8fb;
+    margin-top: 30px;
+    padding: 25px;
+}
+
+.conteudo h2 {
+    color: #18324d;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.conteudo p {
+    font-size: 17px;
+    margin-bottom: 12px;
+}
+
+.galeria {
+    background-color: #f4f8fb;
+    margin-top: 30px;
+    padding: 25px;
+}
+
+.galeria h2 {
+    color: #18324d;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.imagens {
+    text-align: center;
+}
+
+.imagens img {
+    height: 220px;
+    margin: 8px;
+    width: 220px;
+}
+
+.pagina {
+    background-color: #f4f8fb;
+    padding: 30px;
+}
+
+.pagina h2 {
+    color: #18324d;
+    font-size: 32px;
+    margin-bottom: 15px;
+}
+
+.pagina img {
+    border: 4px solid #18324d;
+    margin: 20px;
+    width: 500px;
+}
+
+.pagina h3 {
+    color: #28618b;
+    font-size: 24px;
+    margin-top: 25px;
+}
+
+.pagina p {
+    font-size: 17px;
+    margin-top: 8px;
+}
+
+footer {
+    background-color: #18324d;
+    color: white;
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
